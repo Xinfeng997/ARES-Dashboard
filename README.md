@@ -1,0 +1,3 @@
+Welcome to Ares Dashboard — the most advanced and professional dashboard built specifically for the Ares Discord bot.
+Designed for server owners, administrators, and power users, Ares Dashboard gives you complete control and deep visibility into your community. Monitor real-time statistics, manage members and roles efficiently, analyze activity trends, configure bot settings, and access exclusive pro features — all from one beautiful and intuitive platform.
+Whether you're running a large community, a gaming clan, or a professional Discord server, Ares Dashboard turns complex management into a smooth and enjoyable experience.
